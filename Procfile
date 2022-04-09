@@ -1,0 +1,15 @@
+worker: python episode-01.py
+worker: python episode-02.py
+worker: python episode-03.py
+worker: python episode-07.py
+worker: python episode-08.py
+worker: python episode-09.py
+worker: python episode-10.py  
+worker: python episode-11.py
+worker: python episode-12.py
+worker: python episode-13.py
+worker: python episode-14.py
+worker: python episode-15.py
+worker: python episode-16.py
+worker: python episode-4,6.py
+worker: python episode-5,6.py
